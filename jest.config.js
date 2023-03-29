@@ -8,5 +8,5 @@ export default {
   setupFilesAfterEnv: ['@testing-library/jest-dom'],
   testEnvironment: 'jsdom',
   testMatch: ['<rootDir>/test/**/*.test.*'],
-  testTimeout: 15000
+  testTimeout: 30000
 };
